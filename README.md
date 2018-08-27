@@ -3,11 +3,8 @@
 
 ![Country List](https://github.com/sodiqOladeni/RestCountries/blob/master/screen_shot/WhatsApp%20Image%202018-08-27%20at%201.42.39%20AM%20(1).jpeg)
 
-### The Journal list page list out the Journal list recorded in the SQLite database to recyclerview
-
 ![Swipe to Delete Function](https://github.com/sodiqOladeni/RestCountries/blob/master/screen_shot/WhatsApp%20Image%202018-08-27%20at%201.42.39%20AM%20(2).jpeg)
 
-### Add and Edit Journal page allow user to add to the database and also edit database content
 ![Country List](https://github.com/sodiqOladeni/RestCountries/blob/master/screen_shot/WhatsApp%20Image%202018-08-27%20at%201.42.39%20AM.jpeg)
 
 
