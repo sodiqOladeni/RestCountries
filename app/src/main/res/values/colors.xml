@@ -11,6 +11,7 @@
 
     <!--For displaying the country initial-->
     <color name="medium_black">#828282</color>
+    <color name="swipe_bg">#800080</color>
     <color name="textColorEarthquakeDetails">#B4BAC0</color>
     <color name="textColorEarthquakeLocation">#9E9E9E</color>
     <color name="magnitude1">#4A7BA7</color>

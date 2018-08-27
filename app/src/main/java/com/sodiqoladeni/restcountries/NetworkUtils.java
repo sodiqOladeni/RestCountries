@@ -172,7 +172,7 @@ public final class NetworkUtils {
             // For each countries in the dataArray, create an {@link Earthquake} object
             for (int i = 0; i < baseJsonResponse.length(); i++) {
 
-                //To be used by ListItemAdapter for setting random color for each country
+                //To be used by ListCountryAdapter for setting random color for each country
                 int anyRandomNumber = new Random().nextInt(10);
 
                 // Get a single country at position i within the list of earthquakes
